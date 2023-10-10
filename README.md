@@ -1,3 +1,5 @@
+![logo](https://github.com/artemis-bouzaki/artemis-bouzaki/blob/main/GitHub%20Banner.avif)
+
 <h1 align="center">Hi 👋, I'm Artemis!</h1>
 <h3 align="center">First class Physics graduate with strong interest in software development.</h3>
 
