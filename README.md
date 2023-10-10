@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Artemis!</h1>
 <h3 align="center">First class Physics graduate with strong interest in software development.</h3>
