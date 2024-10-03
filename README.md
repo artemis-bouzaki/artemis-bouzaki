@@ -1,9 +1,8 @@
 ![logo](https://github.com/artemis-bouzaki/artemis-bouzaki/blob/main/GitHub%20Banner.avif)
 
 <h1 align="center">Hi 👋, I'm Artemis!</h1>
-<h3 align="center">First class Physics graduate with strong interest in software development.</h3>
+<h3 align="center"> PhD student with strong interest in software development.</h3>
 
-- Currently expanding my knowledge on data structures and algorithms.
 - 📫 How to reach me **arbouzaki@gmail.com**
 - Website: https://artemis-bouzaki.github.io/
 
