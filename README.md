@@ -1,4 +1,4 @@
-![logo]([https://github.com/artemis-bouzaki/artemis-bouzaki/blob/main/GitHub%20Banner.avif](https://github.com/artemis-bouzaki/artemis-bouzaki/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))
+![logo](https://github.com/artemis-bouzaki/artemis-bouzaki/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋 I'm Artemis </h1>
 
