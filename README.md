@@ -13,7 +13,7 @@ I am developing a **risk prediction tool for fractures after radiotherapy**, int
 
 ## Skills
 
-- **Programming & Tools**: Python, MATLAB, C++, R, HTML, CSS, JavaScript, React, Django, SQL, Git  
+- **Programming & Tools**: Python, C++, R, HTML, CSS, JavaScript, React, Django, SQL, Git  
 - **Data Science & ML**: Statistical analysis, image-based data mining, statistical shape modelling, machine learning
 - **Software & DevOps**: Full-stack web apps, API development, PostgreSQL, deployment, version control  
 
@@ -31,8 +31,3 @@ I am developing a **risk prediction tool for fractures after radiotherapy**, int
 </p>
 
 ---
-
-### GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=artemis-bouzaki&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artemis-bouzaki" alt="Streak stats" /></p>
